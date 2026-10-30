@@ -45,4 +45,4 @@ We will review the applicant’s affiliation, intended research use, and applica
 
 Please acknowledge the dataset and cite the associated paper when publishing research results obtained using these materials.
 
-Source images and videos provided through the application process are restricted to the approved non-commercial academic research. Selling, publicly uploading, redistributing, or using these materials in commercial products or services requires separate written authorization.
+Source images and videos provided through the application process are restricted to the approved non-commercial academic research. 
